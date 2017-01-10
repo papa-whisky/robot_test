@@ -1,4 +1,4 @@
-## Toy Robot Simulator
+## Toy Robot Simulator [![Build Status](https://travis-ci.org/papa-whisky/robot_test.svg?branch=master)](https://travis-ci.org/papa-whisky/robot_test)
 
 ### Instructions
 - To install clone this repo with `git clone https://github.com/papa-whisky/robot_test.git`
