@@ -1,7 +1,8 @@
 ## Toy Robot Simulator
 
 ### Instructions
-- From command line type `ruby main.rb` to start.
+- To install clone this repo with `git clone https://github.com/papa-whisky/robot_test.git`
+- From main project directory type `ruby main.rb` to start.
 - Enter commands, separated by spaces. Valid commands are:
   - `PLACE [x-coordinate],[y-coordinate],[bearing]` to set initial position.
   - `MOVE` to move forward one step in current direction.
